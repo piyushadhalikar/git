@@ -1,3 +1,7 @@
  this is a new feature 1
 
+
+more changes
+
 thiss is a new feature hotfix
+
